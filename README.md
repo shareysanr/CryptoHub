@@ -14,9 +14,9 @@ yarn dev
 
 CryptoHub allows people to sign up for a paper trading account, which is an account where aspiring traders can place trades without placing real capital on the line so they can hone their skills. CryptoHub allows traders to trade over 100 coins as their position sizes are displayed to them.
 
-![My Image](/cryptohub/public/MainPage.png)
-![My Image](/cryptohub/public/SignUpScreen.png)
-![My Image](/cryptohub/public/Trades.png)
+![My Image](/public/MainPage.png)
+![My Image](/public/SignUpScreen.png)
+![My Image](/public/Trades.png)
 
 ## How I Built it
 This web app was made using Next.js for the front end and Firebase for authentication and the database. There was also Tailwindcss used for styling.
