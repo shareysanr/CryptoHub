@@ -19,7 +19,7 @@ CryptoHub allows people to sign up for a paper trading account, which is an acco
 ![My Image](/public/Trades.png)
 
 ## How I Built it
-This web app was made using Next.js for the front end and Firebase for authentication and the database. There was also Tailwindcss used for styling.
+This web app was made using Next.js for the front end and Firebase for authentication and the database. There was also Tailwindcss used for styling. The CoinGecko API was used to gather market data for over 100 coins, including elements such as the the market cap, price and 24 hour change.
 
 ## What's next for CryptoHub?
 I plan to help further the security on the website, make UI changes to make the website look more appealing as well as potential data visualizations such as graphs, and a few features for convenience such as an overall account size description and a filter method for the coins.
